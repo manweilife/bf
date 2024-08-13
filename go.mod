@@ -1,4 +1,4 @@
-module github.com/hellokittyboy-code/benfen-go-sdk
+module github.com/manweilife/bf
 
 go 1.19
 
