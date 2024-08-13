@@ -4,10 +4,10 @@ import (
 	"context"
 
 	"github.com/fardream/go-bcs/bcs"
-	"github.com/hellokittyboy-code/benfen-go-sdk/bfc_types"
-	"github.com/hellokittyboy-code/benfen-go-sdk/bfc_types/sui_system_state"
-	"github.com/hellokittyboy-code/benfen-go-sdk/lib"
-	"github.com/hellokittyboy-code/benfen-go-sdk/types"
+	"github.com/manweilife/bf/bfc_types"
+	"github.com/manweilife/bf/bfc_types/sui_system_state"
+	"github.com/manweilife/bf/lib"
+	"github.com/manweilife/bf/types"
 )
 
 func (c *Client) GetLatestSuiSystemState(ctx context.Context) (*types.BfcSystemStateSummary, error) {

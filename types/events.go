@@ -1,6 +1,6 @@
 package types
 
-import "github.com/hellokittyboy-code/benfen-go-sdk/bfc_types"
+import "github.com/manweilife/bf/bfc_types"
 
 type EventId struct {
 	TxDigest bfc_types.TransactionDigest `json:"txDigest"`

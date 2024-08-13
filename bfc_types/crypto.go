@@ -10,8 +10,8 @@ import (
 	"reflect"
 
 	"github.com/fardream/go-bcs/bcs"
-	"github.com/hellokittyboy-code/benfen-go-sdk/crypto"
-	"github.com/hellokittyboy-code/benfen-go-sdk/lib"
+	"github.com/manweilife/bf/crypto"
+	"github.com/manweilife/bf/lib"
 	"golang.org/x/crypto/blake2b"
 )
 

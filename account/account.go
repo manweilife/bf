@@ -4,9 +4,9 @@ import (
 	"encoding/base64"
 	"encoding/hex"
 
-	"github.com/hellokittyboy-code/benfen-go-sdk/bfc_types"
-	"github.com/hellokittyboy-code/benfen-go-sdk/crypto"
-	"github.com/hellokittyboy-code/benfen-go-sdk/lib"
+	"github.com/manweilife/bf/bfc_types"
+	"github.com/manweilife/bf/crypto"
+	"github.com/manweilife/bf/lib"
 	"github.com/tyler-smith/go-bip39"
 	"golang.org/x/crypto/blake2b"
 )

@@ -6,10 +6,10 @@ import (
 	"strings"
 
 	"github.com/fardream/go-bcs/bcs"
-	"github.com/hellokittyboy-code/benfen-go-sdk/bfc_types"
-	"github.com/hellokittyboy-code/benfen-go-sdk/lib"
-	"github.com/hellokittyboy-code/benfen-go-sdk/move_types"
-	"github.com/hellokittyboy-code/benfen-go-sdk/types"
+	"github.com/manweilife/bf/bfc_types"
+	"github.com/manweilife/bf/lib"
+	"github.com/manweilife/bf/move_types"
+	"github.com/manweilife/bf/types"
 )
 
 // NOTE: This copys the query limit from our Rust JSON RPC backend, this needs to be kept in sync!

@@ -1,6 +1,6 @@
 package sui_system_state
 
-import "github.com/hellokittyboy-code/benfen-go-sdk/move_types"
+import "github.com/manweilife/bf/move_types"
 
 const (
 	SuiSystemModuleName = move_types.Identifier("sui_system")

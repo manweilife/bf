@@ -3,8 +3,8 @@ package client
 import (
 	"context"
 
-	"github.com/hellokittyboy-code/benfen-go-sdk/bfc_types"
-	"github.com/hellokittyboy-code/benfen-go-sdk/types"
+	"github.com/manweilife/bf/bfc_types"
+	"github.com/manweilife/bf/types"
 )
 
 // MintNFT

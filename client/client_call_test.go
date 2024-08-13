@@ -8,9 +8,9 @@ import (
 	"math/big"
 	"testing"
 
-	"github.com/hellokittyboy-code/benfen-go-sdk/bfc_types"
-	"github.com/hellokittyboy-code/benfen-go-sdk/lib"
-	"github.com/hellokittyboy-code/benfen-go-sdk/types"
+	"github.com/manweilife/bf/bfc_types"
+	"github.com/manweilife/bf/lib"
+	"github.com/manweilife/bf/types"
 	"github.com/stretchr/testify/require"
 )
 

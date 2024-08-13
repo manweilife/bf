@@ -5,7 +5,7 @@ import (
 	"fmt"
 	"strings"
 
-	"github.com/hellokittyboy-code/benfen-go-sdk/bfc_types"
+	"github.com/manweilife/bf/bfc_types"
 )
 
 type ResourceType struct {

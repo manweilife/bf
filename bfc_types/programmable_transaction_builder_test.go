@@ -4,7 +4,7 @@ import (
 	"testing"
 
 	"github.com/fardream/go-bcs/bcs"
-	"github.com/hellokittyboy-code/benfen-go-sdk/move_types"
+	"github.com/manweilife/bf/move_types"
 	"github.com/stretchr/testify/require"
 )
 

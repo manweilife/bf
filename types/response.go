@@ -1,8 +1,8 @@
 package types
 
 import (
-	"github.com/hellokittyboy-code/benfen-go-sdk/bfc_types"
-	"github.com/hellokittyboy-code/benfen-go-sdk/lib"
+	"github.com/manweilife/bf/bfc_types"
+	"github.com/manweilife/bf/lib"
 )
 
 type AuthSignInfo interface{}

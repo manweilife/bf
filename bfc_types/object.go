@@ -1,6 +1,6 @@
 package bfc_types
 
-import "github.com/hellokittyboy-code/benfen-go-sdk/lib"
+import "github.com/manweilife/bf/lib"
 
 const (
 	ObjectStartVersion = SequenceNumber(1)
